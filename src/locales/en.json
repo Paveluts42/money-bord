@@ -1,0 +1,45 @@
+{
+  "Bill":"Bill",
+  "ProfileTitle": "Profile",
+  "update":"Update",
+  "name":"Name",
+  "inputName":"input name",
+  "exit":"Exit",
+  "History":"History",
+  "Planing":"Planing",
+  "newRecord":"New record",
+  "Category":"Category",
+  "currencyAccount":"Currency Account",
+  "currency":"Currency",
+  "course":"Сourse",
+  "date":"Date",
+  "ExchangeRates":"Exchange Rates",
+  "back": "back",
+  "forward": "forward",
+  "type": "Type",
+  "open": "Open",
+  "amount": "Amount",
+  "historyRecord": "History Record",
+  "delete": "delete",
+  "showRecord": "Show Record",
+  "Расход": "outcome",
+  "Доход": "outcome",
+  "planing": "Planing",
+  "of": "of",
+  "choseCat": "Chose Category",
+  "Description": "Description",
+  "Create": "Create",
+  "limit": "limit",
+  "edit": "Edit"
+
+
+
+
+
+
+
+
+
+
+
+}
